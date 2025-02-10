@@ -1,5 +1,4 @@
 ### Hi, I'm Orkhan Mirzaliyev, Full Stack Web Developer.
-### Currently learning: Python/Django
 
 A few interesting **projects** (written in **Python**, **JS**):
 
@@ -7,7 +6,7 @@ A few interesting **projects** (written in **Python**, **JS**):
 - [TelegramBot](https://t.me/lezgichalbot) - Translator Bot in Telegram
 - All of my projects are available at [weblek.com](https://weblek.com)
 
-Languages and Tools: JavaScript, Python, Vue.js, Node.js, PugJS, Firebase, PWA, Selenium
+Languages and Tools: JavaScript, TypeScript, Python, Vue.js, Node.js, PugJS, Firebase, PWA, Selenium
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarvi&theme=blue-green) -->
 
